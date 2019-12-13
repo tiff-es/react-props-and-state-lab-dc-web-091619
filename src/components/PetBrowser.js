@@ -11,7 +11,7 @@ class PetBrowser extends React.Component {
         pet={petObj}
         onAdoptPet={this.props.onAdoptPet}
       />)}
-      </div>
+    </div>
   }
 }
 
